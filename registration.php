@@ -5,6 +5,4 @@
 		'Github_Module',
 		__DIR__
 	);
-
-
 ?>
